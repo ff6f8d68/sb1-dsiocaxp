@@ -3,4 +3,19 @@ title = "Estland"
 [[pages]]
 id = 1
 title = "Info"
-content = "# Info/n/ ## Hauptstadt/n/ Die Hauptstadt von **Estland** ist **Tallinn**./n/ ## Flagge/n/ [![Flagge Estland](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAACKCAMAAAD/uHQjAAAAFVBMVEX///8Acs4AAAAAZ7oAHjdPT0/w8PDA3iDVAAAAlklEQVR4nO3PgQ2DAAzAsDJg/5/MFQilsi9I5lhqvg54i7EaYzXGaozVGKsxVmOsxliNsRpjNcZqjNUYqzFWY6zGWI2xGmM1xmqM1Rir2Tt2LjXXUvNbyliNsRpjNcZqjNUYqzFWY6zGWI2xGmM1xmqM1RirMVZjrMZYjbEaYzXGaozV7B27l5r/UgMAAAAAAAAAAMBeD1NCf2mg18biAAAAAElFTkSuQmCC \"Flagge Estland\")](http://data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAACKCAMAAAD/uHQjAAAAFVBMVEX///8Acs4AAAAAZ7oAHjdPT0/w8PDA3iDVAAAAlklEQVR4nO3PgQ2DAAzAsDJg/5/MFQilsi9I5lhqvg54i7EaYzXGaozVGKsxVmOsxliNsRpjNcZqjNUYqzFWY6zGWI2xGmM1xmqM1Rir2Tt2LjXXUvNbyliNsRpjNcZqjNUYqzFWY6zGWI2xGmM1xmqM1RirMVZjrMZYjbEaYzXGaozV7B27l5r/UgMAAAAAAAAAAMBeD1NCf2mg18biAAAAAElFTkSuQmCC \"Flagge Estland\")/n/ ## Währung/n/ Die **Währung** von **Estland** ist die **Estnische Krone**./n/ ## lage/n/ **Estland** ist Südlich von **Finnland**. ([**Hier**](https://maps.app.goo.gl/ae1pTE9LjXVJ8ccc9 \"Hier\"))/n/ ## sprache/n/ in **Estland** spricht man **Estnisch**."
+content = """# Info
+
+## Hauptstadt
+Die Hauptstadt von **Estland** ist **Tallinn**.
+
+## Flagge
+![Flagge Estland](https://images.unsplash.com/photo-1508756530018-25b84612c5ff?auto=format&fit=crop&q=80&w=800 "Flagge Estland")
+
+## Währung
+Die **Währung** von **Estland** ist der **Euro** (seit 2011).
+
+## Lage
+**Estland** liegt südlich von **Finnland**. [**Hier auf der Karte**](https://maps.app.goo.gl/ae1pTE9LjXVJ8ccc9)
+
+## Sprache
+In **Estland** spricht man **Estnisch**."""
